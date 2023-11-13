@@ -10,7 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superstar901&label=Profile%20views&color=0e75b6&style=flat" alt="superstar901" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superstar901" alt="superstar901" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superstar901&theme=onedark" alt="superstar901" /></a> </p>
+
 
 <p>As a Full Stack Software Engineer with 10 years of web development and 7 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary), Python/Django/Flask/FastAPI, PHP/Laravel, and Java for the backend.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
