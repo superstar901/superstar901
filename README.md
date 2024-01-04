@@ -12,26 +12,30 @@
 <p>
   🤔 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow. 
 </p>
-
+<br/>
 <p>
   😎 I have successfully developed and published several web and
   mobile applications using modern JavaScript Frameworks. 
 </p>
+<br/>
 <p>
   💫 Skilled in working under pressure and adapting to new situations and
   challenges to contribute to the company's success. 
 </p>
+<br/>
 <p>
   🤝 Collaborate with creative and development teams on the execution of ideas and
   projects. 
 </p>
+<br/>
 <p>
   👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
 </p>
+<br/>
 <p>
   💛 I like JavaScript and also like the 🥤 frappucinos, fruit smoothies, 🍩 donuts and 🍨 mascarpone ice cream with berries. 
 </p>
-
+<br/>
 </div>
 
 <br/>
