@@ -8,6 +8,10 @@
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<br/>
+  skype: live:.cid.d503cd75616a5d75
+telegram: @cryptomania901
+<br/>
 
 <p>
   🤔 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow. 
