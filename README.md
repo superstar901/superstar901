@@ -9,10 +9,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 <br/>
-skype: live:.cid.d503cd75616a5d75
-<br/>
-telegram: @cryptomania901
-<br/>
+
 <br/>
 
 <p>
